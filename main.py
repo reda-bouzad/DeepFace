@@ -11,10 +11,10 @@ model = DeepFace.build_model(models[1])
 verify_result = DeepFace.verify(img1_path="male1.jpg", img2_path="female1.jpg")
 
 # find the person in a photo :
-find_result = DeepFace.find(img_path="messi-neymar.jpg",
+find_result = DeepFace.find(img_path="Messi-Ronaldo-Suarez.jpg",
                             db_path="/home/reda/Pictures/persons",
                             model_name=models[1],
-                            enforce_detection=True,
+                            enforce_detection=False,
                             detector_backend='retinaface')
 
 # return the first element of the array which is the dataframe :

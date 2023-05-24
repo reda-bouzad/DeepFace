@@ -1,6 +1,11 @@
-                                     identity  source_x  source_y  source_w  source_h  Facenet_cosine Person
-/home/reda/Pictures/persons/neymar/neymar.png       484        89       117       171         0.34335 neymar
+                                                      identity  source_x  source_y  source_w  source_h  Facenet_cosine  Person
+                   /home/reda/Pictures/persons/Ronaldo/0x0.jpg       339        44       152       207        0.246317 Ronaldo
+/home/reda/Pictures/persons/Ronaldo/Cristiano_Ronaldo_2018.jpg       339        44       152       207        0.285570 Ronaldo
 
-                                    identity  source_x  source_y  source_w  source_h  Facenet_cosine Person
-/home/reda/Pictures/persons/messi/messi.jpeg       235        65       120       170        0.271018  messi
+                                    identity  source_x  source_y  source_w  source_h  Facenet_cosine
+/home/reda/Pictures/persons/messi/messi.jpeg        87        66       138       186        0.233415
+
+                                                                                                                                                                                                          identity  source_x  source_y  source_w  source_h  Facenet_cosine
+                                                                                                                                                                     /home/reda/Pictures/persons/Suarez/suarez.jpg       648        66       146       205        0.344093
+/home/reda/Pictures/persons/Suarez/2dk2RRM2dZ8gbjqEKhMyhVb69WSb8rE7YpgzLSYbk6uPsU7jTKXr8QuUyysKDXdTLiP4e8rhhn9p55799UTtED9APGBZ8fGudPj2m5GE1RLc1g6m45oZPLf3j7dod6o6MKrW135p7uw5btkcDGmYZrhczVGzccqjXmLtGSauMx.jpeg       648        66       146       205        0.380800
 
